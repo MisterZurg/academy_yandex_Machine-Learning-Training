@@ -1,4 +1,4 @@
-academy_yandex_Algorithm-Training
+# academy_yandex_Algorithm-Training
 ![img.png](repo-banner.png)
 ⌨️ Solutions to Academy Yandex "Тренировки по Machine Learning"
 
@@ -16,9 +16,11 @@ ML — это новое направление Тренировок, котор
 
 > [!IMPORTANT]
 > В этом репозитории я буду хранить исключительно ЭмЭль, возможно вы ищите:
-> [Тренировки по Алгоритмам](https://github.com/MisterZurg/academy_yandex_Algorithm-Training)
-> Тренировки по DevOps TBC
+> - [Тренировки по Алгоритмам](https://github.com/MisterZurg/academy_yandex_Algorithm-Training)
+> - [Тренировки по DevOps](https://github.com/MisterZurg/academy_yandex_DevOps-Training)
 
+> [!NOTE]
+> [Github Тренировки по Machine Learning](https://github.com/girafe-ai/ml-course/tree/23f_yandex_ml_trainings)
 
 > [!WARNING]
 > Тут будет появлятся контент по мере моего интереса, тк
@@ -27,8 +29,8 @@ ML — это новое направление Тренировок, котор
  
 ## Syllabus
 ### Тренировки по ML 1.0
-- Вводная по ML + knn
-- Линейная регрессия и регуляризация
+- [Лекция 1: Вводная по ML + knn](https://www.youtube.com/watch?v=k3UJOG-DKHE&ab_channel=Young%26%26Yandex)
+- [Лекция 2: Линейная регрессия и регуляризация](https://www.youtube.com/watch?v=5qLVUO0q644&ab_channel=Young%26%26Yandex)
 - Линейная классификация, метод максимального правдоподобия
 - Решающие деревья, композиции деревьев, Random Forest
 - Градиентный бустинг, тонкости обучения
